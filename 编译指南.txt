@@ -8,11 +8,11 @@
 2. 选择 "Open" → 导航到 C:\Users\Administrator\.qclaw\workspace\MusicTrigger
 3. 等待 Gradle 同步（首次会自动下载 Gradle Wrapper，约 5-10 分钟）
 4. 同步成功后，点击菜单: Build → Build Bundle(s) / APK(s) → Build APK(s)
-5. 编译完成的 APK 在: pp\build\outputs\apk\debug\app-debug.apk
+5. 编译完成的 APK 在: app\build\outputs\apk\debug\app-debug.apk
 
 ## 方案二：直接运行编译
 
-项目已配置好，直接双击运行 uild.bat 即可（需要网络下载 Gradle）
+项目已配置好，直接双击运行 build.bat 即可（需要网络下载 Gradle）
 
 ## 项目结构
 
