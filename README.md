@@ -9,10 +9,10 @@
 1. 用 Android Studio 打开此文件夹 (MusicTrigger)
 2. 等待 Gradle 同步完成（首次会自动下载 Gradle Wrapper）
 3. 点击 **Build → Build Bundle(s) / APK(s) → Build APK(s)**
-4. APK 生成在: pp/build/outputs/apk/debug/app-debug.apk
+4. APK 生成在: app/build/outputs/apk/debug/app-debug.apk
 
 ### 方法二：运行 build.bat
-双击 uild.bat 运行自动构建脚本
+双击 build.bat 运行自动构建脚本
 
 ## 工作原理
 1. **MainActivity** - 透明的入口 Activity
